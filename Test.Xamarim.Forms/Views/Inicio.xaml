@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test.Xamarim.Forms.Inicio">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="CRUD de Clientes!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="PIM VIII - UNIP 2020" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Aplicaçao feita com Xamarim" FontSize="16" Padding="30,0,30,0"/>
+        <Button x:Name="Novo" Text="Novo Cliente" Clicked="botaoNovo_Clicked"></Button>
+        <Button x:Name="Lista" Text="Lista de Clientes" Clicked="botaoLista_Clicked"></Button>
+    </StackLayout>
+
+</ContentPage>

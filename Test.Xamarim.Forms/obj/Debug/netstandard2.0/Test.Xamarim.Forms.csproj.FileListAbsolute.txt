@@ -1,0 +1,17 @@
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\bin\Debug\netstandard2.0\Test.Xamarim.Forms.deps.json
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\bin\Debug\netstandard2.0\Test.Xamarim.Forms.dll
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\bin\Debug\netstandard2.0\ref\Test.Xamarim.Forms.dll
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\bin\Debug\netstandard2.0\Test.Xamarim.Forms.pdb
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Test.Xamarim.Forms.csprojAssemblyReference.cache
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Test.Xamarim.Forms.AssemblyInfoInputs.cache
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Test.Xamarim.Forms.AssemblyInfo.cs
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Test.Xamarim.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Test.Xamarim.Forms.dll
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\ref\Test.Xamarim.Forms.dll
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Test.Xamarim.Forms.pdb
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Views\Inicio.xaml.g.cs
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Views\List.xaml.g.cs
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Views\DetalheView.xaml.g.cs
+C:\Users\Lucas Serafim\source\repos\Test.Xamarim.Forms\Test.Xamarim.Forms\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
